@@ -8,3 +8,6 @@ To print with our HP printer, paper size and thickness must be changed (letter, 
 
 Also: https://community.ceramicartsdaily.org/topic/7483-re-firing-commercial-porcelain/
 https://elainebradley.blogspot.com/2017/08/how-did-you-do-that-laser-decal-on.html
+
+First test firing schedule:
+60C/hr to 150C to dry the decal, 120C/hr to 570C, hold 10mins, 120C/hr to 1000C, hold 5mins, off.
